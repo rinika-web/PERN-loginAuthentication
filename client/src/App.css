@@ -1,0 +1,23 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.slider-container {
+  margin-top: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.slider-container label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.slider-container input[type='range'] {
+  width: 100%;
+}

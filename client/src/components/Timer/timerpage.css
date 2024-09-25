@@ -1,0 +1,15 @@
+.timer-page {
+  font-family: Arial, sans-serif;
+  width: 378px;
+  height: 770px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #eaa345ad;
+  border-radius: 8px;
+  text-align: justify;
+  background-image: url("../../assets/Background-image.png");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

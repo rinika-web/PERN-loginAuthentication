@@ -1,0 +1,179 @@
+.rg-page {
+    font-family: Arial, sans-serif;
+    width: 357px;
+    height: 770px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #b4afaf;
+    border-radius: 8px;
+    text-align: justify;
+    top: -891px;
+    left: -15px;
+    background-color: rgb(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+}
+
+
+.Title {
+    width: 305px;
+    height: Hug (108px)px;
+    top: 76px;
+    left: 24px;
+    gap: 2px;
+    opacity: 0px;
+    word-spacing: 1px;
+}
+
+.Title h1 {
+    margin-bottom: 10px;
+}
+
+.Title p {
+    margin-bottom: 20px;
+    color: #888;
+}
+
+
+.main-page form {
+    display: flex;
+    flex-direction: column;
+}
+
+.Input_email {
+    width: Hug (327px)px;
+    height: Hug (80px)px;
+    top: 216px;
+    left: 24px;
+    gap: 8px;
+    opacity: 5px;
+    margin-top: 19px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+
+}
+
+.inputmail input {
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    border-color: rgb(196, 186, 186);
+}
+
+
+.Input_username {
+    width: Hug (327px)px;
+    height: Hug (90px)px;
+    top: 310px;
+    left: 24px;
+    gap: 8px;
+    opacity: 0px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: left;
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+}
+
+.inputuser input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    border-color: rgb(196, 186, 186);
+}
+
+
+.Input_pasword {
+    width: Hug (327px)px;
+    height: Hug (80px)px;
+    top: 310px;
+    left: 24px;
+    gap: 8px;
+    opacity: 0px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight: bold;
+
+}
+
+.password-wp input {
+    margin-bottom: 15px;
+    margin-top: 9px;
+    padding: 7px;
+    border-radius: 5px;
+    width: 200px;
+    border-color: rgb(196, 186, 186);
+}
+
+.password-wp  {
+    text-align: end;
+}
+
+.password-visibility-button:hover {
+    
+    background-color: rgba(28, 115, 181, 0.92);
+}
+
+.checkbox {
+    padding: 13px;
+    border-radius: 5px;
+}
+
+.checkbox a {
+    text-decoration: none;
+    color: rgba(254, 140, 0, 1);
+}
+
+
+
+.in_button button {
+    margin: 9px;
+    padding: 15px;
+    border-radius: 25px;
+    width: 300px;
+    margin-left: 10px;
+    background-color: rgba(254, 140, 0, 1);
+    border: none;
+    color: beige;
+    font-size: 15px;
+}
+
+.separator {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.separator img {
+    width: 100%;
+
+}
+
+.google button {
+
+    border: none;
+    padding: none;
+    background: none;
+
+}
+
+.google img {
+    width: 150%;
+    margin-left: -40px;
+}
+
+.login {
+    text-align: center;
+    font-weight: 300;
+}
+
+.link {
+    color: rgba(254, 140, 0, 1);
+    text-decoration: none;
+    font-weight: 400;
+}

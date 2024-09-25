@@ -1,0 +1,164 @@
+.main-page {
+    font-family: Arial, sans-serif;
+    width: 340px;
+    height: 680px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #b4afaf;
+    border-radius: 8px;
+    text-align: justify;
+    top: -891px;
+    left: -15px;
+    background-color: rgb(255, 255, 255, 1);
+
+}
+
+
+.Title {
+
+    top: 76px;
+    left: 24px;
+    gap: 8px;
+    opacity: 0px;
+    word-spacing: 1px;
+}
+
+.Title h1 {
+    margin-bottom: 10px;
+}
+
+.Title p {
+    margin-bottom: 20px;
+    color: #888;
+}
+
+
+.main-page form {
+    display: flex;
+    flex-direction: column;
+}
+
+.Input_email {
+    width: Hug (327px)px;
+    height: Hug (80px)px;
+    top: 216px;
+    left: 24px;
+    gap: 8px;
+    opacity: 5px;
+}
+
+.Input_email {
+    margin-top: 19px;
+    margin-bottom: 30px;
+    text-align: left;
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+
+}
+
+.input input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    width: 300px;
+    border-color: rgb(27, 26, 26);
+}
+
+
+.Input_pasword_login label {
+    width: Hug (327px)px;
+    height: Hug (80px)px;
+    top: 310px;
+    left: 24px;
+    gap: 8px;
+
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight: bold;
+    color: black;
+
+}
+
+.label {
+    font-weight: bold;
+}
+
+.password-wp_login {
+    margin-bottom: 15px;
+    margin-top: 9px;
+    padding: 0px;
+    border-radius: 5px;
+    width: 300px;
+    border-color: rgb(196, 186, 186);
+}
+
+.password-wp_login toggle_password_visibility {
+    color: blue
+}
+
+.Forgot_password {
+    margin-left: -30px;
+    margin-bottom: 25px;
+    text-align: right;
+}
+
+.Forgot_password a {
+    color: rgba(254, 140, 0, 1);
+    text-decoration: none;
+}
+
+
+
+.in_button_login button {
+    margin: 9px;
+    padding: 15px;
+    border-radius: 25px;
+    width: 300px;
+    justify-content: center;
+    background-color: rgba(254, 140, 0, 1);
+    border: none;
+    color: beige;
+    font-size: 15px;
+    margin-left: 3px;
+
+}
+
+.in_button_login button {
+    text-align: center;
+}
+
+.separator {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.separator img {
+    width: 100%;
+
+}
+
+.google_login button {
+
+    border: none;
+    padding: none;
+    background: none;
+
+}
+
+.google_login img {
+    width: 170%;
+    margin-left: -70px;
+    margin-bottom: 12px;
+}
+
+.register {
+    text-align: center;
+    font-weight: 300;
+}
+
+.link {
+    color: rgba(254, 140, 0, 1);
+    text-decoration: none;
+    font-weight: 400;
+}

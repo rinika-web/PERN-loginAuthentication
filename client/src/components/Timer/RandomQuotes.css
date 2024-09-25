@@ -1,0 +1,26 @@
+.random-quotes {
+  font-family: Arial, sans-serif;
+  font-size: 1.5rem;
+  color: #1f1919;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgba(241, 205, 161, 0.437);
+  border-radius: 5px;
+  background-color: rgba(254, 140, 0, 0.782);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  bottom: 200px;
+  right: 650px;
+  width: 300px;
+  height: auto;
+  overflow: hidden;
+  transition: transform 0.5s, opacity 0.5s;
+  opacity: 0;
+  transform: translateY(100%);
+  z-index: 1000;
+}
+
+.random-quotes.show {
+  opacity: 1;
+  transform: translateY(0);
+}
